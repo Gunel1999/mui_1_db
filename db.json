@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "a3b8",
+      "name": "Ian Bright",
+      "lastName": "Parsons",
+      "username": "behati",
+      "email": "lewywibemu@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "0ee2",
+      "name": "Kasper Wagner",
+      "lastName": "Mays",
+      "username": "goqelefi",
+      "email": "hacopefe@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "0080",
+      "name": "Harlan Freeman",
+      "lastName": "Bennett",
+      "username": "coquqy",
+      "email": "sace@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "342d",
+      "name": "Sean Mcknight",
+      "lastName": "Schultz",
+      "username": "komawuz",
+      "email": "poxybe@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "8cac",
+      "name": "Harriet Cannon",
+      "lastName": "Kim",
+      "username": "xinuca",
+      "email": "kypuqavy@mailinator.com",
+      "password": "Pa$$w0rd!"
+    },
+    {
+      "id": "9d0d",
+      "name": "Kelsie Buckner",
+      "lastName": "Allison",
+      "username": "pudat",
+      "email": "one@mail.com",
+      "password": "password"
+    }
+  ]
+}
